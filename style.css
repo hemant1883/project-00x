@@ -492,8 +492,8 @@ h6 i {
     height: 400px;
 }
 
-.c3{
-    display: none;
+.container2{
+    flex: 1;
 }
 
 .p1{
