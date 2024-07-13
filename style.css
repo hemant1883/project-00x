@@ -539,4 +539,10 @@ h6 i {
 
 }
 
+@media screen and (max-width:580px){
+    .numbers p{
+        margin: 5px;
+    }
+}
+
 
